@@ -8,6 +8,7 @@ Smart Automated Review Responder(SARR) is an open-source python tool that get's 
 
 ![LOGO](/images/image.png)
 
+
 </div>
 
 ---
